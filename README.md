@@ -7,7 +7,7 @@
     <title>Juju:))</title>
 </head>
 <body>
-    <h1 class="titulo">Adriana</h1>
+    <h1 class="titulo">Julia</h1>
     <p class="text">Página criada puramente com o objetivo de falar da minha irmã</p>
     </p>
     <P> Cidade que minha irmã vive:
