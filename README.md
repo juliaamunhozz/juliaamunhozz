@@ -11,4 +11,4 @@
     <p class="text">Página criada para falar de coisas que eu gosto:)</p>
     </p>
     <P> Meus instrumentos favoritos:
-    <P/1></P> <img src="https://www.istockphoto.com/br/foto/música-clássica-favorita-feche-acima-da-vista-das-mãos-fêmeas-delicadas-que-jogam-uma-gm1129332575-298281488"
+    <P/1></P> <img src="https://www.fabianademutti.com/post/quanto-tempo-demora-para-aprender-piano"
